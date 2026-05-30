@@ -19,3 +19,6 @@ El proyecto destaca por la lógica programada directamente en el servidor de bas
 - `cryptoinsight_db.sql`: Script de DDL para la creación de tablas, llaves primarias, foráneas y restricciones de verificación (`CHECK constraints`).
 - `Carga de datos.sql`: Set de datos e inserciones de prueba estructuradas para validación de consistencia.
 - `Consultas_DiegoD.sql`: Scripts de programación avanzada (vistas, funciones de usuario y procedimientos almacenados).
+
+## Créditos
+Este proyecto fue desarrollado de forma grupal como parte del curso Diseño de Base de Datos en la UPC. Integrantes: Diego Joaquín Díaz Urday, Alvaro Miguel Grados Dávila, Juan David Saldaña De Souza, Jean Niels Arizabal Condori, Augusto Sebastian Montes Maza.
